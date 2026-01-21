@@ -1,0 +1,56 @@
+ACORD Form Field Names
+==================================================
+Source: acord_25_sample.pdf
+Total Fields Found: 50
+==================================================
+
+1. Additional Insured
+2. Additional Remarks
+3. Additional Remarks Schedule
+4. Agent
+5. Auto Liability
+6. Broker
+7. Certificate Date
+8. Certificate Holder
+9. Certificate Number
+10. Claim Made
+11. Commercial General Liability
+12. Company
+13. Contact Name
+14. Date
+15. Description of Operations
+16. Effective Date
+17. Each Occurrence
+18. Employer's Liability
+19. Excess Liability
+20. Expiration Date
+21. Fire Damage
+22. General Aggregate
+23. Insured
+24. Insured's Name
+25. Insr Ltr
+26. Location of Premises
+27. Medical Expense
+28. Named Insured
+29. Occur
+30. Operations
+31. Other
+32. Personal & Adv Injury
+33. Policy Effective Date
+34. Policy Expiration Date
+35. Policy Number
+36. Producer
+37. Products - Comp/Op Agg
+38. Project
+39. Property Damage
+40. Revision Number
+41. Should Any Of The Above Described Policies Be Cancelled
+42. Subrogation Waiver
+43. Surplus Lines
+44. The Certificate Holder
+45. This Certificate Is Issued
+46. Type of Insurance
+47. Umbrella Liability
+48. Waiver of Subrogation
+49. Workers Compensation
+50. WC Statutory Limits
